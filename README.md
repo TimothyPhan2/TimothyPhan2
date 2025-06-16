@@ -2,6 +2,8 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyPhan2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,firebase,flask,gcp,git,github,java,mongodb,mysql,nextjs,nodejs,postgres,py,react,supabase,tailwind,ts)](https://skillicons.dev)
+
 <!--
 **TimothyPhan2/TimothyPhan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
