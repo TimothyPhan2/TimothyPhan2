@@ -1,22 +1,44 @@
-## Hi there 👋
-- I'm currently working on [Schedro](https://github.com/TimothyPhan2/schedro) & [Audiora](https://github.com/TimothyPhan2/Audiora)
-- How to reach me: timothy.phan233@gmail.com
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyPhan2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=TimothyPhan2&style=for-the-badge)
-# Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,firebase,flask,gcp,git,github,java,mongodb,mysql,nextjs,nodejs,postgres,py,react,supabase,tailwind,ts,vercel,netlify)](https://skillicons.dev)
+# Hi there, I'm Timothy! 👋
 
-<!--
-**TimothyPhan2/TimothyPhan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔭 Currently working on [**Schedro**](https://github.com/TimothyPhan2/schedro) & [**Audiora**](https://github.com/TimothyPhan2/Audiora)
+- 📫 Reach me at: **timothy.phan233@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Programming Languages & Frameworks
+[![Development Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,py,flask,java)](https://skillicons.dev)
+
+### Databases
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase)](https://skillicons.dev)
+
+### Tools & Platforms
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,docker,gcp,vercel,netlify)](https://skillicons.dev)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+[![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyPhan2&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyPhan2&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about anything!
+
+- 📧 **Email**: timothy.phan233@gmail.com
+- 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/timothyphan22) <!-- Update with your actual LinkedIn -->
+<!-- - 🌐 **Portfolio**: [View my work](https://timothy-phan.dev) Update with your actual portfolio -->
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=TimothyPhan2&style=for-the-badge&color=blueviolet)
+
+
+</div>
