@@ -22,7 +22,7 @@
   
 [![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyPhan2&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyPhan2&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyPhan2&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&hide_border=true&exclude_repo=ai-rmp,CS134-3DProject)
 
 </div>
 
