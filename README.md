@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [**Schedro**](https://github.com/TimothyPhan2/schedro) & [**Audiora**](https://github.com/TimothyPhan2/Audiora)
+- 🔭 Currently working on [**Renderwise**](https://github.com/TimothyPhan2/SaaS-Stuff) & [**Audiora**](https://github.com/TimothyPhan2/Audiora)
 - 📫 Reach me at: **timothy.phan233@gmail.com**
 
 ## 🛠️ Tech Stack
