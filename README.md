@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [**Renderwise**](https://github.com/TimothyPhan2/SaaS-Stuff) & [**Audiora**](https://github.com/TimothyPhan2/Audiora)
+- 🔭 Currently working on [**Audiora**](https://audiora.xyz/)
 - 📫 Reach me at: **timothy.phan233@gmail.com**
 
 ## 🛠️ Tech Stack
