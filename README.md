@@ -31,7 +31,7 @@
 I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about anything!
 
 - 📧 **Email**: timothy.phan233@gmail.com
-- 💼 **LinkedIn**: [Connect with me](www.linkedin.com/in/timothyphan22) <!-- Update with your actual LinkedIn -->
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/timothyphan22/) <!-- Update with your actual LinkedIn -->
 <!-- - 🌐 **Portfolio**: [View my work](https://timothy-phan.dev) Update with your actual portfolio -->
 
 ---
